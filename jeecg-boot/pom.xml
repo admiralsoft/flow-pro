@@ -53,6 +53,7 @@
 		<module>jeecg-boot-module-activiti</module>
 		<module>jeecg-boot-module-system</module>
         <module>jeecg-boot-module-chat</module>
+        <module>jeecg-boot-module-salary</module>
 
         <!-- 需要微服务，请打开注释
         <module>jeecg-boot-starter</module>
